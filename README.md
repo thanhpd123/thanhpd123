@@ -20,5 +20,5 @@
 
 ⚡ My Secret [dont touch](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
- </div>
-<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhpd123&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight"/>
+</div>

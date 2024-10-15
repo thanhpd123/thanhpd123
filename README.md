@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
-⚡ My Secret [dont touch](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+⚡ My Secret [dont touch](https://www.youtube.com/shorts/SXHMnicI6Pg)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhpd123&show_icons=true&theme=radical"/>
 </div>

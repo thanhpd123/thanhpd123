@@ -15,7 +15,7 @@
  <br/>
  🎯 Goal: **Working in Germany as a Software Engineer**
 
- <br/> <br/>
+ <br/> 
 
  💬 Connect with me:
  <br/>
@@ -26,6 +26,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
  <br/>
-<img align="center" src="https://github-readme-stats-thanhvercels-projects.vercel.app/api/top-langs/?username=thanhpd123&layout=compact&theme=radical&hide_border=true&t=ok123" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,react,nextjs,mongodb,html,css,git,vercel&perline=10" />
+</div>
 
 </div>

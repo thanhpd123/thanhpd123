@@ -25,12 +25,7 @@
  <a href="mailto:thanhpd2303@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
-
- <br/> <br/>
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhpd123&theme=radical&hide_border=true" alt="GitHub Streak" />
-
  <br/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhpd123&layout=compact&theme=radical&hide_border=true" />
+ <img align="center" src="https://github-readme-stats-thanhvercels-projects.vercel.app//api/top-langs/?username=thanhpd123&layout=compact&theme=radical&hide_border=true" />
 
 </div>
